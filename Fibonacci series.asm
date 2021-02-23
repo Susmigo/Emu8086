@@ -1,0 +1,20 @@
+;Welcome Mr.Govardhan Gautam
+;Program Title: Fibonacci series
+ORG 0100H
+MOV AX,0700H
+MOV DS,AX
+MOV SI,0150H
+MOV CL,[SI]
+MOV AL,01H
+MOV BL,00H
+INC SI
+MOV [SI],BL
+INC SI
+MOV [SI],AL
+UP:INC SI
+MOV DL,AL
+ADD AL,BL
+MOV [SI],AL
+MOV BL,DL
+LOOP UP
+INT 21H 
