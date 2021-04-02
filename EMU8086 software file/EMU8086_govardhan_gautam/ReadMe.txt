@@ -46,12 +46,11 @@
         2. Use of such information includes a hyperlink to emu8086.com website. 
     
     
-    CUSTOMER SERVICE
-    ================
-    
-    air.plane@dr.com
+    license :
+    username=Govardhan Gautam
+regkey=27R3VDEFYFX4N0VC3FRTQZX
+q=100
 
-    http://www.emu8086.com
 
 
 
